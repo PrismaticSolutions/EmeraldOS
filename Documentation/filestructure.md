@@ -2,7 +2,7 @@
 
 #### This is the file structure for EmeraldOS.
 ------
-####Table View:
+#### Table View:
 
 File Name | File Path | File Description
 ------ | ------ | ------
