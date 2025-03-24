@@ -23,7 +23,8 @@ An operating system created using the Scracth engine via [Turbowarp](https://tur
 
 *Last modified: 3/24/2025*
 - [X] ~~Create thumbnail~~
-- [ ] Create loading screen
+- [X] ~~Create loading screen~~
+- [X] ~~Add date and time system~~
 - [ ] Add desktop environment
 - [ ] Add setup process
 - [ ] Design everything
