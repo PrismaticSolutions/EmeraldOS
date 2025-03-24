@@ -27,4 +27,4 @@ An operating system created using the Scracth engine via [Turbowarp](https://tur
 - [X] ~~Add date and time system~~
 - [ ] Add desktop environment
 - [ ] Add setup process
-- [ ] Design everything
+- [ ] Design everything (~4% complete)
