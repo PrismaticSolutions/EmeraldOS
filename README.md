@@ -10,21 +10,22 @@ An operating system created using the Scracth engine via [Turbowarp](https://tur
 
 # Personal Use
 > [!NOTE]
-> If you would like to make any changes, please make sure you fork the LATEST version for the best security. You must also follow the proper documentation to avoid any issues. Please also give credits to Prismatic Solutions and/or EmeraldOS once you fork our repository.
+> If you would like to make any changes, please make sure you fork the LATEST version for the best security. You must also follow the proper documentation to avoid any issues. **Please also give credits to Prismatic Solutions once you fork our repository.**
 
 # Hosting
 > [!IMPORTANT]
-> If you want to host your own version of EmeraldOS, please download the file ending in .sb3 and import it into Turbowarp or Penguinmod. Normal scratch WILL NOT work since it uses custom extensions.
+> If you want to host your own version of EmeraldOS, please download the file ending in .sb3 and import it into Turbowarp or Penguinmod. Normal scratch WILL **__NOT__** work since it uses custom extensions.
 
 # Current Roadmap
 
 > [!NOTE]
 > Not all features listed here will be completed and/or in the final version.
 
-*Last modified: 3/24/2025*
+*Last modified: 4/4/2025*
 - [X] ~~Create thumbnail~~
 - [X] ~~Create loading screen~~
 - [X] ~~Add date and time system~~
 - [ ] Add desktop environment
 - [ ] Add setup process
-- [ ] Design everything (~4% complete)
+- [ ] Design everything (~6% complete)
+- [ ] Create apps (~0% complete)
